@@ -20,7 +20,9 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+
+test-workflow_You've now got a fully functioning workflow! :smile: :smile: :smile:_
+
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
